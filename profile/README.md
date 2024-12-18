@@ -4,7 +4,7 @@ hogehogeほげほげ。サンプルテキスト。
 
 ---
 
-## 🛠️ Who We Are
+## 👱 Who We Are
 
 ほげほげふがふが。ジーズのチームCだよ。
 
