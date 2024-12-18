@@ -16,8 +16,8 @@ hogehogeほげほげ。サンプルテキスト。
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [Project 1](https://github.com/organization/project1) | A powerful tool for developers. | [GitHub Repo](https://github.com/organization/project1) |
-| [Project 2](https://github.com/organization/project2) | Simplifying workflows. | [GitHub Repo](https://github.com/organization/project2) |
+| [TRENDX](https://github.com/organization/project1) | hogehoge最高の掲示板サービス | [GitHub Repo](https://github.com/organization/project1) |
+| [Laratterのテスト](https://github.com/organization/project2) | ツイッター的なやつ | [GitHub Repo](https://github.com/organization/project2) |
 
 ---
 
